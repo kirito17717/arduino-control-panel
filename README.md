@@ -7,18 +7,14 @@ Arduino Nano + энкодер для управления яркостью, гр
        align="left"
        alt="Arduino Control Panel">
 
-  <h3>⚙️ Serial Port Configuration</h3>
+  <h3> Панель настроек<br> </h3>
 
   <p>
-    Select the COM port connected to your Arduino Nano
-    or configure a default port for automatic connection
-    when the application starts.
+    настройка порта для подключения поставить авто и он сам найдёт ардуино или выбрать порт по умолчанию 
   </p>
 
   <p>
-    - Automatic port detection<br>
-    - Manual COM port selection<br>
-    - Default port configuration
+    поля для отключения если ардуино не подключено 
   </p>
 </div>
 
