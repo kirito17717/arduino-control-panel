@@ -3,7 +3,7 @@ Arduino Nano + энкодер для управления яркостью, гр
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/11870c17-7689-46ce-83bd-cd4fe9b5f239"
-       width="260"
+       width="500"
        align="left"
        alt="Arduino Control Panel">
 
